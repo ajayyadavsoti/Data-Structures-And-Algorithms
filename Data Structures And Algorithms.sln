@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Algorithms.Runner", "DataStructures.Algorithms.Runner\DataStructures.Algorithms.Runner.csproj", "{4EFC7BE4-1765-4B03-9EF4-55614AE6234A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataStructures.Algorithms.PythonRunner", "DataStructures.Algorithms.PythonRunner\DataStructures.Algorithms.PythonRunner.pyproj", "{DBD44F38-87CE-4785-B49C-B0BE24B4CDEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A18C33F-CBC6-48C6-9D28-C122EF009214}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFC7BE4-1765-4B03-9EF4-55614AE6234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFC7BE4-1765-4B03-9EF4-55614AE6234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFC7BE4-1765-4B03-9EF4-55614AE6234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFC7BE4-1765-4B03-9EF4-55614AE6234A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD44F38-87CE-4785-B49C-B0BE24B4CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD44F38-87CE-4785-B49C-B0BE24B4CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1D4986A-482F-4BA0-BB4E-91EFB783E03A}
+	EndGlobalSection
+EndGlobal

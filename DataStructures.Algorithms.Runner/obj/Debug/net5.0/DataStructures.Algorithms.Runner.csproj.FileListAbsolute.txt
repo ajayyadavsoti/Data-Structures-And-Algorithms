@@ -1,0 +1,16 @@
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\bin\Debug\net5.0\DataStructures.Algorithms.Runner.exe
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\bin\Debug\net5.0\DataStructures.Algorithms.Runner.deps.json
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\bin\Debug\net5.0\DataStructures.Algorithms.Runner.runtimeconfig.json
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\bin\Debug\net5.0\DataStructures.Algorithms.Runner.runtimeconfig.dev.json
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\bin\Debug\net5.0\DataStructures.Algorithms.Runner.dll
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\bin\Debug\net5.0\ref\DataStructures.Algorithms.Runner.dll
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\bin\Debug\net5.0\DataStructures.Algorithms.Runner.pdb
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\DataStructures.Algorithms.Runner.csproj.AssemblyReference.cache
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\DataStructures.Algorithms.Runner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\DataStructures.Algorithms.Runner.AssemblyInfoInputs.cache
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\DataStructures.Algorithms.Runner.AssemblyInfo.cs
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\DataStructures.Algorithms.Runner.csproj.CoreCompileInputs.cache
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\DataStructures.Algorithms.Runner.dll
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\ref\DataStructures.Algorithms.Runner.dll
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\DataStructures.Algorithms.Runner.pdb
+D:\Projects Demo\Data Structures And Algorithms\Data Structures And Algorithms\DataStructures.Algorithms.Runner\obj\Debug\net5.0\DataStructures.Algorithms.Runner.genruntimeconfig.cache
